@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gustav</h1>
-<h3 align="center">A passionate system developer from Sweden</h3>
+<h1 align="left">Hi 👋, I'm Gustav</h1>
+<h3 align="left">A passionate system developer from Sweden</h3>
+<h4 align="left">I'm a system Science student at Linköping University</h4>
 
 - 🌱 I’m currently learning **C++**
 

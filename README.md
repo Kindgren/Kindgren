@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Gustav</h1>
 
-<h3 align="left">System Science student at the University of Linköping</h3>
+<h2 align="left">System Science student at the University of Linköping</h2>
 
 - 🌱 I’m currently learning **C++**
 
